@@ -1,0 +1,24 @@
+Como compilar o projeto:
+
+* Se voce estiver no windows, basta usar ".\compile.ps1", em seguida o executavel estará no diretorio "build\Debug"
+* Se voce estiver no linux, basta usar "./compile.sh", se der erro, use "chmod +x compile.sh" e em seguida rode o comando novamente, o
+executavel estará no diretorio "build"
+
+Como compilar o projeto manualmente:
+
+* No Windows:
+cmake -S . -B build
+cmake --build build --target ALL_BUILD
+
+** O executavel vai estar no caminho "build\Debug"
+
+* No Linux:
+cmake -S . -B build
+cmake --build build
+
+** o executavel vai estar no caminho "build/"
+
+O diretorio build e os executaveis nao sao compartilhados pelo github pois ele esta no .gitignore
+Os executaveis nao devem ficar fora do diretorio "build" para nao manda-los para o github
+
+Qualquer duvida contate o Italo no servidor do discord da Coorporativa Celestia
