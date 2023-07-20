@@ -1,4 +1,5 @@
 P.I.L.A
+
 O PILA é uma criptomoeda inspirada no Bitcoin, mas com características únicas que a tornam especial. Seu nome é uma abreviação de "Papel Individual Libertário Anônimo". O PILA foi desenvolvido com o objetivo de proporcionar liberdade financeira e autonomia aos seus usuários. A criptografia do PILA é baseada em dois elementos principais: o algoritmo SHA256 e a criptografia caótica. O SHA256 é um algoritmo amplamente utilizado para garantir a segurança e a integridade dos dados. Ele cria uma sequência única de caracteres (hash) que serve como assinatura digital para cada transação realizada com o PILA.
 
 A criptografia caótica é um método avançado que se baseia em sistemas dinâmicos não lineares e imprevisíveis. Isso aumenta ainda mais a segurança da criptomoeda, tornando-a resistente a ataques e interferências indesejadas.
