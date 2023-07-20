@@ -1,0 +1,4 @@
+C:/Users/italo/Área de Trabalho/PILA/build/CMakeFiles/pila-test1.dir
+C:/Users/italo/Área de Trabalho/PILA/build/CMakeFiles/pila-test2.dir
+C:/Users/italo/Área de Trabalho/PILA/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/italo/Área de Trabalho/PILA/build/CMakeFiles/ZERO_CHECK.dir
